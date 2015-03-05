@@ -4,7 +4,8 @@
 </head>
 <body>  
 <?php
-echo "Hello Friend!!";
+echo Hello Friend!!
+echo "tepangkeun nami abi yeni";
 ?>
 </body>
 </html>
